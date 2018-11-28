@@ -1,0 +1,6 @@
+
+[{"_id": "0", "name": "Naranjo", "description": "Esto es una descripcion corta del proyecto naranjo para mostrar", "category": "bank", "tecnologies": "Vue and Flask", "photo": "img-pro-1.jpg", "person_id": "2"},
+ {"_id": "1", "name": "Encina", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet egest","category": "health", "tecnologies": "Vue and Flask", "photo": "img-pro-2.jpg", "person_id": "2"},
+ {"_id": "2", "name": "Manzano", "description": "Machine Learning Lorem ipsum dolor sit amet, consectetur adipiscing eli", "category": "bank", "tecnologies": "Vue and Flask", "photo": "img-pro-3.jpg", "person_id": "2"},
+ {"_id": "3", "name": "Pino", "description": " Lorem Machine Inteligencia Artificial Lorem ipsum dolor sit amet, conse","category": "health", "tecnologies": "Vue and Flask", "photo": "img-pro-4.jpg", "person_id": "2"}
+]
